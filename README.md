@@ -49,7 +49,7 @@ To get the details, read the medium articles from the below links.
 ## Trial 5: Success!
 
 <p align="center">
-  <img width="416" height="644" src="https://cdn-images-1.medium.com/max/1200/1*pJYZr78iTGQIFw5G9I8LFQ.gif">
+  <img width="416" height="644" src="https://miro.medium.com/max/400/1*Cth5XH4sU__QebpfYOkE-A.gif">
 </p>
 
 ## RESULT COMPARISON
