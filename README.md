@@ -65,6 +65,6 @@ To get the details, read the medium articles from the below links.
 
 ## MEDIUM ARTICLES
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anynomous/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anynomous/1" alt="Recent Article 0"/>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/1" alt="Recent Article 0"/>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anynomous/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anynomous/0" alt="Recent Article 0"/>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/0" alt="Recent Article 0"/>
