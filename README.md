@@ -2,27 +2,25 @@
 
 A custom widget that demonstrates how to switch specific colors of an image.
 
-
 🎨 Do you wish to color an image using dart code?
 
 ⌚ Are you facing failures over time?
 
-🚙 Are you feeling lost? 
+🚙 Are you feeling lost?
 
 🏴󠁢󠁳󠁨󠁴󠁿 Well, don’t give up hope yet!
 
-This project is focused on providing such techniques that would elaborate the concept of image color-switching using custom widgets. 
+This project is focused on providing such techniques that would elaborate the concept of image color-switching using custom widgets.
 
-To get the details, read the medium articles from the below links.
+To get the details, read the [below articles](#medium-articles).
+
 ## THE CHALLENGE
-
 
 <p align="center">
   <img width="700" height="450" src="https://miro.medium.com/max/700/1*LUCDUEhPB5A37r-ebEsLUg.png">
 </p>
 
-
-## Trial 1: The Blending Slider 
+## Trial 1: The Blending Slider
 
 <p align="center">
   <img width="328" height="664" src="https://miro.medium.com/max/328/1*LQHCWajw5twyjSVdYnE1XQ.gif">
@@ -59,12 +57,12 @@ To get the details, read the medium articles from the below links.
 </p>
 
 ## TOOLS & LANGUAGE
- 
+
 - [Microsoft Visual Studio Code](https://code.visualstudio.com/download)
-- [Flutter](https://flutter.dev/) 
+- [Flutter](https://flutter.dev/)
 
 ## MEDIUM ARTICLES
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/1" alt="ImageColorSwitcher in Flutter Part 2 : Vector Image Coloring"/>
+[![ImageColorSwitcher in Flutter Part 2 : Vector Image Coloring](https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/4)](https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/4)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/2" alt="ImageColorSwitcher in Flutter Part 1 : Raster Image Coloring"/>
+[![ImageColorSwitcher in Flutter Part 1 : Raster Image Coloring](https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/3)](https://github-readme-medium-recent-article.vercel.app/medium/@zujaj/3)
